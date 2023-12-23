@@ -57,23 +57,7 @@ function Home() {
      </div>
    </div>
     
-       {/* <div className ="portfolio">
-         <h2>Portfolio</h2>
-         <div className="project1">
-           <img src="/images/1.jpg" alt="Project 1" />
-           <div>
-             <h3 style={{ fontSize: '25px' }}>Project 1</h3>
-             <p>Description of the first project.</p>
-           </div>
-         </div>
-         <div className="project">
-           <img src="/images/2.jpg" alt="Project 2" />
-           <div>
-             <h3 style={{ fontSize: '25px' }}>Project 2</h3>
-             <p>Description of the second project.</p>
-           </div>
-         </div>
-       </div> */}
+       
        <div className='contact-container'>
        <div className="contact-me">
          <h2 style={{textAlign:"center"}}>Contact Me</h2>
