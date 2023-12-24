@@ -35,15 +35,15 @@
 }
 
 .tab1-container:hover{
-background-color: purple;
-padding:5px 10px;
+background-color:blue;
+padding:5px 15px;
 border-radius: 20px;
 transition: 1s;
 }
 
 .tab2-container:hover{
-    background-color:#ff5349;
-    padding:5px 10px;
+    background-color:orange;
+    padding:10px 20px;
     border-radius: 20px;
     transition: 1s;
     }
@@ -69,7 +69,7 @@ a{
 
 .contact-container{
     background-color: whitesmoke;
-    
+    border-radius: 20px;
 }
 
 .contact{
